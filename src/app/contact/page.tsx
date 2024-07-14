@@ -2,7 +2,7 @@ import Contact from "@/components/contact";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Contact Edumint - Edumint LMS & Online Courses React Next js Template",
+   title: "Contact Us - Home Town Tutor",
 };
 const page = () => {
    return (

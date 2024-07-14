@@ -37,7 +37,7 @@ const Counter = () => {
    return (
       <div className="counter-area bg-gray">
          <div className="container">
-            <div className="counter-area-inner pd-top-120 pd-bottom-120" style={{ backgroundImage: `url(/assets/img/other/1.png)` }}>
+            <div className="counter-area-inner pd-top-120 pd-bottom-70" style={{ backgroundImage: `url(/assets/img/other/1.png)` }}>
                <div className="row">
                   <div className="col-lg-8 mb-5 mb-lg-0">
                      <div className="section-title mb-0">

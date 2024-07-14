@@ -1,6 +1,5 @@
 import { StaticImageData } from "next/image";
 
-import icon_0 from "@/assets/img/intro/0.png";
 import icon_1 from "@/assets/img/intro/1.png";
 import icon_2 from "@/assets/img/intro/2.png";
 import icon_3 from "@/assets/img/intro/3.png";
@@ -49,7 +48,7 @@ const intro_data: DataType[] = [
    {
       id: 4,
       page: "home_1",
-      icon: icon_0,
+      icon: icon_2,
       title: "Step 4: Achieve Your Success",
       desc: "With our expert guidance and your dedication, you'll reach your academic goals and beyond."
    },

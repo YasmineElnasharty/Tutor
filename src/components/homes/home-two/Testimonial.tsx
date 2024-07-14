@@ -2,7 +2,7 @@ import CommonTestimonial from "@/components/common/CommonTestimonial"
 
 const Testimonial = () => {
    return (
-      <div className="" style={{ backgroundImage: `url(/assets/img/bg/pricing-bg.png)` }}>
+      <div className="testimonial-area pd-top-110 pd-bottom-120" style={{ backgroundImage: `url(/assets/img/testimonial/bg.png)`, backgroundSize: "cover", backgroundPosition: "center" }}>
          <div className="container">
             <div className="row justify-content-center">
                <div className="col-xl-6 col-lg-7 col-md-11">

@@ -80,7 +80,7 @@ const CourseDetailsNavTab = () => {
             <div className={`tab-pane fade ${activeTab === 1 ? 'show active' : ''}`}>
                <div className="course-details-content">
                   <h4 className="title">Overview</h4>
-                  <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab</p>
+                  <p>We will be happy to answer your questions</p>
                   <div id="accordion" className="accordion-area mt-4">
                      {faq_data.filter((items) => items.page === "home_3").map((item) => (
                         <div key={item.id} className="card single-faq-inner style-no-border">
@@ -119,7 +119,7 @@ const CourseDetailsNavTab = () => {
             <div className={`tab-pane fade ${activeTab === 2 ? 'show active' : ''}`}>
                <div className="course-details-content">
                   <h4 className="title">Overview</h4>
-                  <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab</p>
+                  <p>We will be happy to answer your questions. flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab</p>
                   <div id="accordiontwo" className="accordion-area mt-4">
                      {faq_data.filter((items) => items.page === "home_3").map((item, i) => (
                         <div key={item.id} className="card single-faq-inner">

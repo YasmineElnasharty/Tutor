@@ -12,8 +12,7 @@ const ContactFormArea = () => {
                   <div className="section-title mb-0">
                      <h6 className="sub-title right-line">Get in touch</h6>
                      <h2 className="title">Write Us a Message</h2>
-                     <p className="content pb-3">The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax
-                        quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, </p>
+                     <p className="content pb-3">We will be happy to answer your questions</p>
                      <ul className="social-media style-base pt-3">
                         {icons.map((icon, i) => (
                            <li key={i}>

@@ -48,14 +48,14 @@ const menu_data: MenuItem[] = [
    {
       id: 4,
       has_dropdown: false,
-      title: "Contact us",
-      link: "/contactus",
+      title: "Contact Us",
+      link: "/contact",
    },
    {
       id: 5,
       has_dropdown: false,
       title: "About us",
-      link: "/aboutus",
+      link: "/about",
    },
 ];
 export default menu_data;
